@@ -1,0 +1,33 @@
+{
+	"member_alert": {
+		"id": 229,
+		"member_subscription": 44,
+		"alert_template": 22, //alert_template record for the service for that client
+		"attributes": {
+			"uuid": "40d042bc-005b-11e8-ba89-0ed5f89f718b",
+			"category": "Dark Web", //account notification, credit, non-credit, dark web, minor, etc.
+			"type": "Web Watcher Information Detected", //the actual name of the type, used as the subject in emails
+			"viewed_date": "2018-01-23 02:15:58 UTC",
+			"archived_date": null,
+			"email_content": "Dear John, ...", //the parsed and built content from the template with the dynamic properties for this alert.
+			"web_content": "Defender has found ...", //the parsed and built content from the template with the dynamic properties for this alert.
+			"severity": 6,
+			"recommended_actions": "Lorem ipsum dolor sit amet...",
+			"alert_service": 30,
+			"alert_vendor": 23,
+			"vendor_alert_identifier_type": "int",
+			"vendor_alert_identifier": "121094538",
+			"email_in_queue": false,
+			"email_sent_date": "2018-01-23 02:15:58 UTC",
+			//probably won't have this for a looong time, not super helpful...
+			"notes": [{
+				"type": "Incident Information", //incident information, exposed information, recommended actions, support notes
+				"note": "Lorem ipsum dolor sit amet....",
+			}]
+		},
+		"insert_date": "2018-01-23 02:15:58 UTC",
+		"insert_user": 39087,
+		"void_date": null,
+		"void_user": null
+	}
+}

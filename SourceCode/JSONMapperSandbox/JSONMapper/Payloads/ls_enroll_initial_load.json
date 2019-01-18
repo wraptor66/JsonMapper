@@ -1,0 +1,35 @@
+﻿{
+  "id": "some guid",
+  "event_type": "enroll",
+  "scope": "Member",
+  "received_date": "some data",
+  "caller": {
+    "client": "LegalShield",
+    "client_id": "some bigint",
+    "user_name":  "legalshield",
+    "user_id": "some bigint",
+    "ip": "some value",
+    "route":  "https://api.idwebservices.com/event",
+    "headers": [],
+    "api_key":  "some value"
+  },
+  "message": {
+    "id": 1,
+    "object": "PublicationEvent",
+    "created_at": "2017-11-22 18:18:30 UTC",
+    "updated_at": "2017-11-22 18:18:30 UTC",
+    "subject": "User",
+    "action": "created",
+    "data": {
+      "id": 1,
+      "object": "User",
+      "created_at": "2017-11-22 18:18:28 UTC",
+      "updated_at": "2017-11-22 18:18:28 UTC",
+      "first_name": "John",
+      "last_name": "Smith",
+      "postal_code": "12345",
+      "date_of_birth": "1975-01-01",
+      "memberships": []
+    }
+  }
+}

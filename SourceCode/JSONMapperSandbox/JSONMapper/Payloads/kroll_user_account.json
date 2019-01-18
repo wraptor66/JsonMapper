@@ -1,0 +1,38 @@
+{
+	"user_account": {
+		"id": 1249,
+		"user": 242987,
+		"attributes": {
+			"uuid": "40d05266-005b-11e8-ba89-0ed5f89f718b",
+			"user_pool": "us-east-1_inKITA6Mo",
+			"user_name": "hiimdave",
+			"preferred_username": "Haiimdave",
+			"last_login_date": "2018-01-23 02:15:58 UTC",
+			"failed_login_attempt_count": 0,
+			"failed_login_attempt_start_date": null,
+			"is_password_stale": false,
+			"is_password_reset_pending": false,
+			"last_password_reset_date": "2018-01-23 02:15:58 UTC",
+			"password_question": 1,
+			"password_answer": "Harry",
+			"failed_password_answer_attempt_count": 0,
+			"failed_password_answer_attempt_start_date": null,
+			"is_locked_out": false,
+			"last_lockout_start_date": null,
+			"last_terms_acknowledgement_date": "2018-01-23 02:15:58 UTC",
+
+			//would exist for sample accounts like in Call Admin
+			"access_code": "3010ECA3-B9DC-4AD3-AB87-D986B2FDBBD0",
+			"permissions": [{
+				"application": 1503,
+				"roles": [ 1659, 1660, 1661 ]
+			}]
+		},
+		"insert_date": "2018-01-23 02:15:58 UTC",
+		"insert_user": 7098203984,
+		"edit_date": null,
+		"edit_user": null,
+		"void_date": null,
+		"void_user": null
+	}
+}

@@ -1,0 +1,623 @@
+{
+  "event": {
+    "primaryobject": "member"
+  },
+  "jsonstructures": {
+    "member": {
+      "id": null
+      //"attributes": null,
+      //"insert_user": null,
+      //"insert_date": null,
+      //"edit_user": null,
+      //"edit_date": null,
+      //"void_user": null,
+      //"void_date": null,
+      //"subscriptions": null,
+      //"ssn": null,
+      //"nin": null,
+      //"uuid": null,
+      //"client_uuid": null,
+      //"prefix": null,
+      //"first_name": null,
+      //"middle_name": null,
+      //"last_name": null,
+      //"suffix": null,
+      //"date_of_birth": null,
+      //"user_info": null
+    },
+    "subscriptions": {
+      "id": null,
+      "attributes": null,
+      "insert_user": null,
+      "insert_date": null,
+      "edit_user": null,
+      "edit_date": null,
+      "void_user": null,
+      "void_date": null,
+      "active": null,
+      "csid_status": null,
+      "csid_status_change_date": null,
+      "authentication_status": null,
+      "authentication_status_change_date": null,
+      "services": null,
+      "uuid": null,
+      "client_uuid": null,
+      "subscriber_number": null,
+      "membership_type": null,
+      "subscription_type": null,
+      "last_search_date": null,
+      "family_members": null,
+      "monitored_data": null
+    },
+    "monitored_data": {
+      "name": null,
+      "date_of_birth": null,
+      "ssn": null,
+      "NIN": null,
+      "drivers_license_numbers": null,
+      "addresses": null,
+      "bank_accounts": null,
+      "cards": null,
+      "email_addresses": null,
+      "passports": null,
+      "phone_numbers": null
+    },
+    "family": {
+      "primary": null,
+      "spouse": null,
+      "children": null
+    },
+    "services": {
+      "id": null,
+      "attributes": null,
+      "insert_user": null,
+      "insert_date": null,
+      "edit_user": null,
+      "edit_date": null,
+      "void_user": null,
+      "void_date": null,
+      "vendor_name": null,
+      "vendor_id": null
+    }
+  },
+  "definitions": {
+    "member": {
+      "id": {
+        "datapayload": "eventpayload",
+        "parentobject": "body",
+        "filterexpression": "id",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "uuid": {
+        "datapayload": "eventpayload",
+        "parentobject": "body",
+        "filterexpression": "id",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "attributes": {
+        "datapayload": "eventpayload",
+        "parentobject": "body",
+        "filterexpression": "",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "insert_user": {
+        "datapayload": "eventpayload",
+        "parentobject": "body",
+        "filterexpression": "",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "insert_date": {
+        "datapayload": "eventpayload",
+        "parentobject": "body",
+        "filterexpression": "",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "edit_user": {
+        "datapayload": "eventpayload",
+        "parentobject": "body",
+        "filterexpression": "",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "edit_date": {
+        "datapayload": "eventpayload",
+        "parentobject": "body",
+        "filterexpression": "",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "void_user": {
+        "datapayload": "eventpayload",
+        "parentobject": "body",
+        "filterexpression": "",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "void_date": {
+        "datapayload": "eventpayload",
+        "parentobject": "body",
+        "filterexpression": "",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "subscriptions": {
+        "datapayload": "JObject",
+        "parentobject": "subscriptions",
+        "filterexpression": "",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "ssn": {
+        "datapayload": "eventpayload",
+        "parentobject": "body",
+        "filterexpression": "",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "nin": {
+        "datapayload": "eventpayload",
+        "parentobject": "body",
+        "filterexpression": "",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "client_uuid": {
+        "datapayload": "eventpayload",
+        "parentobject": "body.data",
+        "filterexpression": "",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "prefix": {
+        "datapayload": "eventpayload",
+        "parentobject": "body",
+        "filterexpression": "prefix",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "first_name": {
+        "datapayload": "eventpayload",
+        "parentobject": "body.data",
+        "filterexpression": "first_name",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "middle_name": {
+        "datapayload": "eventpayload",
+        "parentobject": "body.data",
+        "filterexpression": "middle_name",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "last_name": {
+        "datapayload": "eventpayload",
+        "parentobject": "body.data",
+        "filterexpression": "last_name",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "suffix": {
+        "datapayload": "eventpayload",
+        "parentobject": "body.data",
+        "filterexpression": "suffix",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "date_of_birth": {
+        "datapayload": "eventpayload",
+        "parentobject": "body.data",
+        "filterexpression": "date_of_birth",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      },
+      "user_info": {
+        "datapayload": "eventpayload",
+        "parentobject": "caller",
+        "filterexpression": "user_id",
+        "required": false,
+        "deleteifnull": false,
+        "tag": ""
+      }
+    },
+      "subscriptions": {
+        "id": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "attributes": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "insert_user": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "insert_date": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "edit_user": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "edit_date": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "void_user": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "void_date": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "active": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "csid_status": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "csid_status_change_date": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "authentication_status": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "authentication_status_change_date": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "services": {
+          "datapayload": "JObject",
+          "parentobject": "services",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "uuid": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "client_uuid": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "subscriber_number": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "membership_type": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "subscription_type": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "last_search_date": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "family_members": {
+          "datapayload": "JObject",
+          "parentobject": "family",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "monitored_data": {
+          "datapayload": "JObject",
+          "parentobject": "monitored_data",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        }
+      },
+      "monitored_data": {
+        "name": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "date_of_birth": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "ssn": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "NIN": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "drivers_license_numbers": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "addresses": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "bank_accounts": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "cards": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "email_addresses": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "passports": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "phone_numbers": {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        }
+      },
+      "family": {
+        "primary":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "spouse":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "children":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        }
+      },
+      "services": {
+        "id":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "attributes":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "insert_user":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "insert_date":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "edit_user":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "edit_date":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "void_user":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "void_date":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "vendor_name":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        },
+        "vendor_id":  {
+          "datapayload": "eventpayload",
+          "parentobject": "body",
+          "filterexpression": "",
+          "required": false,
+          "deleteifnull": false,
+          "tag": ""
+        }
+      }
+    }
+  }

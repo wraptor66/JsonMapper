@@ -1,0 +1,48 @@
+{
+	"vendor": {
+		"id": 23,
+		"attributes": {
+			"uuid": "40d042bc-005b-11e8-ba89-0ed5f89f718b",
+			"type": "Service", //call center, print, service, auto-dialer
+			"key_code": "V23",
+			"name": "CSID",
+			"addresses": [{
+				"uuid": "29873b46-ffa8-11e7-ba89-0ed5f89f718b",
+				"type": "Primary", //primary, secondary, home, work, billing, etc.
+				"address1": "123 Main St.",
+	      		"address2": null,
+	      		"city": "Some City",
+	      		"state_province": null,
+	      		"country": "UK",
+	      		"postal_code": "55555"
+			}],
+			"contacts": [{
+				"uuid": "29874172-ffa8-11e7-ba89-0ed5f89f718b",
+				"type": "Primary", //primary, secondary, technology, client manager, billing, case review, referral, csr, etc.
+				"name": "John Johnson",
+				"title": "CEO",
+				"phone_number": "5556667777",
+				"fax_number": null,
+				"email_address": "jjceo@company.com",
+				"sample_contact": "Joe Smith"
+			}]
+		},
+		"insert_date": "2018-01-23 02:15:58 UTC",
+		"insert_user": 7098203984,
+		"edit_date": null,
+		"edit_user": null,
+		"void_date": null,
+		"void_user": null,
+
+		//related data
+		"services": [{
+			//...
+		}],
+		"clients": [{
+			//...
+		}],
+		"engagements": [{
+			//...
+		}]
+	}
+}

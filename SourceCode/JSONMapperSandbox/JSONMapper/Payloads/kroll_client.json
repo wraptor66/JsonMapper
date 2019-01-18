@@ -1,0 +1,68 @@
+{
+	"client": {
+		"id": 1,
+		"attributes": {
+			"uuid": "29873718-ffa8-11e7-ba89-0ed5f89f718b",
+			"type": "Membership", //breach, membership, eagle vision
+			"service_delivery_type": "Subscription", //subscription or package (only available for membership)
+			"name": "LegalShield",
+			"active": true,
+			"industry": "Legal", //values from industry table
+			"notes": "Lorem ipsum dolor sit amet.",
+			"allow_manual_enrollment": true,
+			"exportable_activities": [ 19, 29, 34, 77, 79, 101, 200 ], //id of Activity table record.
+			"addresses": [{
+				"uuid": "29873b46-ffa8-11e7-ba89-0ed5f89f718b",
+				"type": "Primary", //primary, secondary, home, work, billing, etc.
+				"address1": "123 Main St.",
+	      		"address2": null,
+	      		"city": "Nashville",
+	      		"state_province": null,
+	      		"country": "UK",
+	      		"postal_code": "55555"
+			}],
+			"phone_numbers": [{
+				"uuid": "29873dee-ffa8-11e7-ba89-0ed5f89f718b",
+				"type": "Primary", //primary, secondary, home, work, cell, fax, csr, billing, etc.
+				"number": "5551234567",
+				"extension": "4567"
+			}],
+      "contacts": [
+        {
+          "uuid": "29874172-ffa8-11e7-ba89-0ed5f89f718b",
+          "type": "Primary", //primary, secondary, technology, client manager, billing, case review, referral, csr, etc.
+          "name": "Murtala Bello",
+          "title": "CEO",
+          "phone_number": "5556667777",
+          "fax_number": null,
+          "email_address": "jjceo@company.com",
+          "sample_contact": "Joe Smith"
+        },
+        {
+          "uuid": "29874172-ff55-11e7-ba89-0ed5f89f718b",
+          "type": "Secondary", 
+          "name": "Mitch Maynard",
+          "title": "Contractor",
+          "phone_number": "6234326788",
+          "fax_number": 7778889999,
+          "email_address": "mitchell.maynard@sample.com",
+          "sample_contact": "Mitch"
+        }
+      ]
+		},
+		"insert_date": "2018-01-23 02:15:58 UTC",
+		"insert_user": 7098203984,
+		"edit_date": null,
+		"edit_user": null,
+		"void_date": null,
+		"void_user": null,
+
+		//related data
+		"engagements": [{
+			//...
+		}],
+		"accounts": [{
+			//...
+		}]
+	}
+}

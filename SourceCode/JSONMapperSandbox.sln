@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSONMapperSandbox", "JSONMapperSandbox\JSONMapperSandbox.csproj", "{EDABC326-A558-4D4B-8DAA-FE7D6443AF13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaaSWebAPI", "SaaSWebAPI\SaaSWebAPI.csproj", "{02214A2C-AE3B-4E6B-B73E-78BF4DA899BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrainLayer", "BrainLayer\BrainLayer.csproj", "{1BB6F4ED-4C41-4FD4-A3DD-23A7FAAB3731}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQSQueue", "SQSQueue\SQSQueue.csproj", "{DDA09F61-6A28-4E4D-AD04-92A046DCAA7E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOAApi", "SOAApi\SOAApi.csproj", "{C6B61D1E-9E58-49AB-870C-E1AAA4B87F25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambda_JsonMapper", "AWSLambda_JsonMapper\AWSLambda_JsonMapper.csproj", "{B351CE2D-19C0-4487-95FA-DF0BDFE01D8A}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDABC326-A558-4D4B-8DAA-FE7D6443AF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDABC326-A558-4D4B-8DAA-FE7D6443AF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDABC326-A558-4D4B-8DAA-FE7D6443AF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDABC326-A558-4D4B-8DAA-FE7D6443AF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02214A2C-AE3B-4E6B-B73E-78BF4DA899BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02214A2C-AE3B-4E6B-B73E-78BF4DA899BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02214A2C-AE3B-4E6B-B73E-78BF4DA899BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02214A2C-AE3B-4E6B-B73E-78BF4DA899BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB6F4ED-4C41-4FD4-A3DD-23A7FAAB3731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB6F4ED-4C41-4FD4-A3DD-23A7FAAB3731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB6F4ED-4C41-4FD4-A3DD-23A7FAAB3731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB6F4ED-4C41-4FD4-A3DD-23A7FAAB3731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA09F61-6A28-4E4D-AD04-92A046DCAA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA09F61-6A28-4E4D-AD04-92A046DCAA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA09F61-6A28-4E4D-AD04-92A046DCAA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA09F61-6A28-4E4D-AD04-92A046DCAA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B61D1E-9E58-49AB-870C-E1AAA4B87F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B61D1E-9E58-49AB-870C-E1AAA4B87F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B61D1E-9E58-49AB-870C-E1AAA4B87F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B61D1E-9E58-49AB-870C-E1AAA4B87F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B351CE2D-19C0-4487-95FA-DF0BDFE01D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B351CE2D-19C0-4487-95FA-DF0BDFE01D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B351CE2D-19C0-4487-95FA-DF0BDFE01D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B351CE2D-19C0-4487-95FA-DF0BDFE01D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC3DA11-913A-476E-8A90-92F51757B15A}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

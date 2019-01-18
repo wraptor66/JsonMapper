@@ -1,0 +1,23 @@
+{
+	"user": {
+		"id": 242987,
+		"attributes": {
+			"uuid": "40d054aa-005b-11e8-ba89-0ed5f89f718b",
+			"type": "Member", //member, client, vendor, sample, etc.
+			"first_name": "John",
+			"last_name": "Person",
+			"email_address": "jp@testemaildomain.com"
+		},
+		"insert_date": "2018-01-23 02:15:58 UTC",
+		"insert_user": 7098203984,
+		"edit_date": null,
+		"edit_user": null,
+		"void_date": null,
+		"void_user": null,
+
+		//related data...
+		"accounts": [{
+			//...
+		}]
+	}
+}

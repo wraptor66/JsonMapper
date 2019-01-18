@@ -1,0 +1,30 @@
+﻿{
+  "event": {
+    "services": [
+      {
+        "servicename": null,
+        "isrequired":  true
+      }
+    ]
+  },
+  "definitions": {
+    "member": {
+      "id": {
+        "datapayload": "sample_client",
+        "parentobject": "id",
+        "filterexpression": "",
+        "required": true,
+        "deleteifnull": true,
+        "tag": ""
+      }
+    }
+  },
+  "parentobject": {
+    "jsonobject": "member"
+  },
+  "jsonstructures": {
+    "member": {
+      "id": null
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+	"fraud_document": {
+		"id": 512,
+		"member_subscription": 44,
+		"attributes": {
+			"uuid": "40d04cbc-005b-11e8-ba89-0ed5f89f718b",
+			"type": "LPoA", //values from FraudDocumentType
+			"case": 5,
+			"issue": 243,
+			"path": "1700010074-TESTSUB001/LPoA_File.pdf",
+			"url": "https://s3.amazonaws.com/def-fraud-documents/1700010074-TESTSUB001/LPoA_File.pdf",
+			"name": "LPoA_File",
+			"extension": ".pdf"
+		},
+		"insert_date": "2018-01-23 02:15:58 UTC",
+		"insert_user": 7098203984,
+		"edit_date": null,
+		"edit_user": null,
+		"void_date": null,
+		"void_user": null
+	}
+}

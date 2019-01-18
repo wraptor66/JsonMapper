@@ -1,0 +1,24 @@
+{
+	"alert_template": {
+		"id": 1098234,
+		"name": "IDS WW Information Detected",
+		"attributes": {
+			"uuid": "40d042bc-005b-11e8-ba89-0ed5f89f718b",
+			"client": 1,
+			"alert_type": "Web Watcher Information Detected",
+			"alert_category": "Dark Web",
+			"alert_service": 30,
+			"alert_vendor": 23,
+			"email_template": "Dear [Member Name] ...",
+			"web_template": "[Product Name] has found ...",
+			"severity": 6, //1-10
+			"recommended_actions": "Lorem ipsum dolor sit amet..."
+		},
+		"insert_date": "2018-01-23 02:15:58 UTC",
+		"insert_user": 7098203984,
+		"edit_date": null,
+		"edit_user": null,
+		"void_date": null,
+		"void_user": null
+	}
+}

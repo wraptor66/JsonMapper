@@ -1,0 +1,23 @@
+{
+	"activity_log": {
+		"id": 227,
+		"member_subscription": 44,
+		"activity": 19,
+		"attributes": {
+			"uuid": "40d04050-005b-11e8-ba89-0ed5f89f718b",
+			"activity_batch": 15,
+			"activity_date": "2018-01-23 02:15:58 UTC",
+			"history": [{
+				"update_date": "2018-01-15 02:15:58 UTC",
+				"update_user": 7098203984,
+				"data_updated": "First Name",
+				"original_value": "Dave",
+				"new_value": "David"
+			}]
+		},
+		"insert_date": "2018-01-23 02:15:58 UTC",
+		"insert_user": 242987, //304 is system user, otherwise will be the id in the User table
+		"void_date": null,
+		"void_user": null
+	}
+}

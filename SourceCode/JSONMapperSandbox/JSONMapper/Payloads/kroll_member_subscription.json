@@ -1,0 +1,85 @@
+{
+	"member_subscription": {
+		"id": 44,
+		"member": 2,
+		"client": 1,
+		"subscription": 411,
+		"attributes": {
+			"uuid": "29873b46-ffa8-11e7-ba89-0ed5f89f718b",
+			"client_uuid": "93a28408-f801-4ec0-8ee8-4d5eaae61620",
+			"subscriber_number": "879043234098M",
+			"membership_type": "Primary", //primary, spouse, child
+	  		"subscription_type": "Individual", //individual, family
+	  		"active": true,
+	  		"last_search_date": "2018-01-23 02:15:58 UTC",
+	  		"family_members": {
+				"primary": 44,
+				"spouse": 45,
+				"children": [ 46, 47, 48 ]
+			},
+	  		"monitored_data": {
+	  			"name": "David Sutton",
+	  			"date_of_birth": "1975-05-22 02:15:58 UTC",
+	  			"ssn": "123456789",
+				"nin": "QQ123456C",
+				"drivers_license_numbers": [{
+					"uuid": "2300e942-fca2-11e7-8be5-0ed5f89f718b",
+					"number": "SUTTO808258DA97ED1"
+				}],
+				"addresses": [{
+					"uuid": "2300da56-fca2-11e7-8be5-0ed5f89f718b",
+		      		"type": "Primary", //primary, home, work
+		      		"address1": "123 Main St.",
+		      		"address2": null,
+		      		"city": "London",
+		      		"state_province": null,
+		      		"country": "UK",
+		      		"postal_code": "NW6 3AU"
+		      	}],
+		      	"bank_accounts": [{
+		      		"uuid": "2300e942-fca2-11e7-8be5-0ed5f89f718b",
+		      		"account_number": "1234567890"
+		      	}],
+		      	"cards": [{
+		      		"uuid": "29873dee-ffa8-11e7-ba89-0ed5f89f718b",
+		      		"type": "Credit Card", //credit card, debit card, store card, rewards card, membership card, health card, etc.
+		      		"card_number": "4412887655120987",
+		      		"company": "Visa",
+		      		"expiration_date": "04/20"
+		      	}],
+		      	"email_addresses": [{
+		      		"uuid": "2300dfe2-fca2-11e7-8be5-0ed5f89f718b",
+		      		"type": "Primary", //primary, personal, work
+		      		"email": "david.sutton@sample.com"
+		      	}],
+		      	"passports": [{
+		      		"uuid": "2300e6cc-fca2-11e7-8be5-0ed5f89f718b",
+		      		"number": "123456789012345"
+		      	}],
+		      	"phone_numbers": [{
+		      		"uuid": "2300ddd0-fca2-11e7-8be5-0ed5f89f718b",
+		      		"type": "Primary", //primary, secondary, home, work, cell, fax, csr
+		      		"number": "6155776755",
+		      		"extension": "76755"
+		      	}]
+			},
+		},
+		"insert_date": "2018-01-23 02:15:58 UTC",
+		"insert_user": 7098203984,
+		"edit_date": null,
+		"edit_user": null,
+		"void_date": null,
+		"void_user": null,
+
+		//related data
+  		"services": [{
+			//...
+  		}],
+  		"activities": [{
+  			//...
+  		}],
+  		"alerts": [{
+  			//...
+  		}]
+  	}
+}

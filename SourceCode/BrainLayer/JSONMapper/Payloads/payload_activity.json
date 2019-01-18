@@ -1,0 +1,14 @@
+{
+	"activity": {
+		"id": 976,
+		"activity_code": "A075",
+		"name": "Member Account Created Online",
+		"description": "The member's online account has been activated.",
+		"insert_date": "2018-01-23 02:15:58 UTC",
+		"insert_user": 7098203984,
+		"edit_date": null,
+		"edit_user": null,
+		"void_date": null,
+		"void_user": null
+	}
+}

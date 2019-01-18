@@ -1,0 +1,18 @@
+{
+	"package_template": {
+		"id": 1958476,
+		"attributes": {
+			"type": "Family", //individual or family
+			"name": "1BM/WW",
+			"services": [{
+				//...
+			}]
+		},
+		"insert_date": "2018-01-23 02:15:58 UTC",
+		"insert_user": 7098203984,
+		"edit_date": null,
+		"edit_user": null,
+		"void_date": null,
+		"void_user": null,
+	}
+}

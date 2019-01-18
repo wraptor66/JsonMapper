@@ -1,0 +1,5 @@
+Name,Inclusive Samples,Exclusive Samples,Inclusive Samples %,Exclusive Samples %,
+"coreclr.dll",255,253,50.50,50.10,
+"Newtonsoft.Json.dll",505,157,100.00,31.09,
+"System.Private.CoreLib.dll",93,93,18.42,18.42,
+"System.Linq.dll",2,2,0.40,0.40,

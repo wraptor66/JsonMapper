@@ -1,0 +1,22 @@
+{
+	"service": {
+		"id": 31,
+		"vendor": 14,
+		"attributes": {
+			"uuid": "40d0575c-005b-11e8-ba89-0ed5f89f718b",
+			"type": "Court Records Monitoring", //values from ServiceType table
+			"name": "Example Court Record Monitoring"
+		},
+		"insert_date": "2018-01-23 02:15:58 UTC",
+		"insert_user": 7098203984,
+		"edit_date": null,
+		"edit_user": null,
+		"void_date": null,
+		"void_user": null,
+
+		//related data...
+		"alert_templates": [{
+			//...
+		}]
+	}
+}
