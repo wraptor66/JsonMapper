@@ -1,8 +1,0 @@
-{
-	"case_status": {
-		"id": 1,
-		"name": "Pending LPoA",
-		"display_name": "Restoration Case Initiated. Action Required",
-		"description": "Your Investigator is awaiting your completed fraud package with Limited Power of Attorney, which allows them to act on your behalf to restore your identity. If you have not received your fraud package within 14 days, please contact your investigator.",
-	}
-}

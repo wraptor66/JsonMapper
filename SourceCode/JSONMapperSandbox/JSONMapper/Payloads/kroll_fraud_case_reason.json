@@ -1,8 +1,0 @@
-{
-	"fraud_case_reason": {
-		"id": 1,
-		"fraud_case_status_id": 1,
-		"name": "Case Opened",
-		"description": "A new fraud case was opened."
-	}
-}
