@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSONMapperSandbox", "JSONMapperSandbox\JSONMapperSandbox.csproj", "{EDABC326-A558-4D4B-8DAA-FE7D6443AF13}"
 EndProject
@@ -15,10 +15,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOAApi", "SOAApi\SOAApi.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambda_JsonMapper", "AWSLambda_JsonMapper\AWSLambda_JsonMapper.csproj", "{B351CE2D-19C0-4487-95FA-DF0BDFE01D8A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".vs", ".vs", "{444E9DB8-47E1-4514-9D34-EFA301DA6DBF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\slnx.sqlite = ..\..\..\..\Downloads\slnx.sqlite
+	EndProjectSection
+EndProject
 Global
-	GlobalSection(Performance) = preSolution
-		HasPerformanceSessions = true
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -54,6 +56,9 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4CC3DA11-913A-476E-8A90-92F51757B15A}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
 	EndGlobalSection
 	GlobalSection(Performance) = preSolution
 		HasPerformanceSessions = true

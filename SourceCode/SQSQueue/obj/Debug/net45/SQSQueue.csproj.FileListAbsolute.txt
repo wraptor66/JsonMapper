@@ -1,0 +1,12 @@
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SQSQueue\bin\Debug\net45\SQSQueue.exe.config
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SQSQueue\bin\Debug\net45\SQSQueue.exe
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SQSQueue\bin\Debug\net45\SQSQueue.pdb
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SQSQueue\bin\Debug\net45\AWSSDK.Core.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SQSQueue\bin\Debug\net45\AWSSDK.SQS.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SQSQueue\obj\Debug\net45\SQSQueue.csprojAssemblyReference.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SQSQueue\obj\Debug\net45\SQSQueue.csproj.CoreCompileInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SQSQueue\obj\Debug\net45\SQSQueue.AssemblyInfoInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SQSQueue\obj\Debug\net45\SQSQueue.AssemblyInfo.cs
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SQSQueue\obj\Debug\net45\SQSQueue.csproj.CopyComplete
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SQSQueue\obj\Debug\net45\SQSQueue.exe
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SQSQueue\obj\Debug\net45\SQSQueue.pdb

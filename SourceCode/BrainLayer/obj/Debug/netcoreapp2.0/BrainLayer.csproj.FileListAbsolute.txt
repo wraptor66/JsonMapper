@@ -1,0 +1,12 @@
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\BrainLayer\bin\Debug\netcoreapp2.0\BrainLayer.deps.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\BrainLayer\bin\Debug\netcoreapp2.0\BrainLayer.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\BrainLayer\bin\Debug\netcoreapp2.0\BrainLayer.pdb
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\BrainLayer\bin\Debug\netcoreapp2.0\JSONMapperSandbox.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\BrainLayer\bin\Debug\netcoreapp2.0\JSONMapperSandbox.pdb
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\BrainLayer\obj\Debug\netcoreapp2.0\BrainLayer.csprojAssemblyReference.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\BrainLayer\obj\Debug\netcoreapp2.0\BrainLayer.csproj.CoreCompileInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\BrainLayer\obj\Debug\netcoreapp2.0\BrainLayer.AssemblyInfoInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\BrainLayer\obj\Debug\netcoreapp2.0\BrainLayer.AssemblyInfo.cs
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\BrainLayer\obj\Debug\netcoreapp2.0\BrainLayer.csproj.CopyComplete
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\BrainLayer\obj\Debug\netcoreapp2.0\BrainLayer.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\BrainLayer\obj\Debug\netcoreapp2.0\BrainLayer.pdb

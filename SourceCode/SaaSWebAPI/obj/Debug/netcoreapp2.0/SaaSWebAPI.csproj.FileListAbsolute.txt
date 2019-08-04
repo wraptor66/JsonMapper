@@ -1,0 +1,11 @@
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SaaSWebAPI\bin\Debug\netcoreapp2.0\SaaSWebAPI.deps.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SaaSWebAPI\bin\Debug\netcoreapp2.0\SaaSWebAPI.runtimeconfig.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SaaSWebAPI\bin\Debug\netcoreapp2.0\SaaSWebAPI.runtimeconfig.dev.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SaaSWebAPI\bin\Debug\netcoreapp2.0\SaaSWebAPI.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SaaSWebAPI\bin\Debug\netcoreapp2.0\SaaSWebAPI.pdb
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SaaSWebAPI\obj\Debug\netcoreapp2.0\SaaSWebAPI.csprojAssemblyReference.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SaaSWebAPI\obj\Debug\netcoreapp2.0\SaaSWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SaaSWebAPI\obj\Debug\netcoreapp2.0\SaaSWebAPI.AssemblyInfoInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SaaSWebAPI\obj\Debug\netcoreapp2.0\SaaSWebAPI.AssemblyInfo.cs
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SaaSWebAPI\obj\Debug\netcoreapp2.0\SaaSWebAPI.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SaaSWebAPI\obj\Debug\netcoreapp2.0\SaaSWebAPI.pdb

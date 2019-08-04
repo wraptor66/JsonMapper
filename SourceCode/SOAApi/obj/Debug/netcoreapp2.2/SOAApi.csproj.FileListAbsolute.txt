@@ -1,0 +1,14 @@
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\bin\Debug\netcoreapp2.2\SOAApi.deps.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\bin\Debug\netcoreapp2.2\SOAApi.runtimeconfig.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\bin\Debug\netcoreapp2.2\SOAApi.runtimeconfig.dev.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\bin\Debug\netcoreapp2.2\SOAApi.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\bin\Debug\netcoreapp2.2\SOAApi.pdb
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.2\SOAApi.csprojAssemblyReference.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.2\SOAApi.csproj.CoreCompileInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.2\SOAApi.RazorAssemblyInfo.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.2\SOAApi.RazorAssemblyInfo.cs
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.2\SOAApi.AssemblyInfoInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.2\SOAApi.AssemblyInfo.cs
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.2\SOAApi.RazorTargetAssemblyInfo.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.2\SOAApi.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.2\SOAApi.pdb

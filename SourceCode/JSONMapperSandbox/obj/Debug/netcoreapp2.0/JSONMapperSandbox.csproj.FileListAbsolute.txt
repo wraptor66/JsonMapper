@@ -1,0 +1,11 @@
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\JSONMapperSandbox\bin\Debug\netcoreapp2.0\JSONMapperSandbox.deps.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\JSONMapperSandbox\bin\Debug\netcoreapp2.0\JSONMapperSandbox.runtimeconfig.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\JSONMapperSandbox\bin\Debug\netcoreapp2.0\JSONMapperSandbox.runtimeconfig.dev.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\JSONMapperSandbox\bin\Debug\netcoreapp2.0\JSONMapperSandbox.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\JSONMapperSandbox\bin\Debug\netcoreapp2.0\JSONMapperSandbox.pdb
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\JSONMapperSandbox\obj\Debug\netcoreapp2.0\JSONMapperSandbox.csprojAssemblyReference.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\JSONMapperSandbox\obj\Debug\netcoreapp2.0\JSONMapperSandbox.csproj.CoreCompileInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\JSONMapperSandbox\obj\Debug\netcoreapp2.0\JSONMapperSandbox.AssemblyInfoInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\JSONMapperSandbox\obj\Debug\netcoreapp2.0\JSONMapperSandbox.AssemblyInfo.cs
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\JSONMapperSandbox\obj\Debug\netcoreapp2.0\JSONMapperSandbox.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\JSONMapperSandbox\obj\Debug\netcoreapp2.0\JSONMapperSandbox.pdb

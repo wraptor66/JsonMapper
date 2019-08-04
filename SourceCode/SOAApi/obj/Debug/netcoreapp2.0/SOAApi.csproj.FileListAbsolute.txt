@@ -1,0 +1,11 @@
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\bin\Debug\netcoreapp2.0\SOAApi.deps.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\bin\Debug\netcoreapp2.0\SOAApi.runtimeconfig.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\bin\Debug\netcoreapp2.0\SOAApi.runtimeconfig.dev.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\bin\Debug\netcoreapp2.0\SOAApi.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\bin\Debug\netcoreapp2.0\SOAApi.pdb
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.0\SOAApi.csprojAssemblyReference.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.0\SOAApi.csproj.CoreCompileInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.0\SOAApi.AssemblyInfoInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.0\SOAApi.AssemblyInfo.cs
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.0\SOAApi.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\SOAApi\obj\Debug\netcoreapp2.0\SOAApi.pdb

@@ -1,0 +1,14 @@
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\bin\Debug\netcoreapp2.0\AWSLambda_JsonMapper.deps.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\bin\Debug\netcoreapp2.0\AWSLambda_JsonMapper.runtimeconfig.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\bin\Debug\netcoreapp2.0\AWSLambda_JsonMapper.runtimeconfig.dev.json
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\bin\Debug\netcoreapp2.0\AWSLambda_JsonMapper.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\bin\Debug\netcoreapp2.0\AWSLambda_JsonMapper.pdb
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\bin\Debug\netcoreapp2.0\JSONMapperSandbox.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\bin\Debug\netcoreapp2.0\JSONMapperSandbox.pdb
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\obj\Debug\netcoreapp2.0\AWSLambda_JsonMapper.csprojAssemblyReference.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\obj\Debug\netcoreapp2.0\AWSLambda_JsonMapper.csproj.CoreCompileInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\obj\Debug\netcoreapp2.0\AWSLambda_JsonMapper.AssemblyInfoInputs.cache
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\obj\Debug\netcoreapp2.0\AWSLambda_JsonMapper.AssemblyInfo.cs
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\obj\Debug\netcoreapp2.0\AWSLambda_JsonMapper.csproj.CopyComplete
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\obj\Debug\netcoreapp2.0\AWSLambda_JsonMapper.dll
+C:\Users\paperspace\Source\Repos\JsonMapperGitHub\SourceCode\AWSLambda_JsonMapper\obj\Debug\netcoreapp2.0\AWSLambda_JsonMapper.pdb
