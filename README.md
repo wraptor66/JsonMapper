@@ -18,4 +18,4 @@ JSON Mapper is not limited to only ORM activities. It provides the ability to en
 The opportunity is to use the JSON Mapper library as a companion to the Cloud Architecture Design. It can provide the customer, migrating to the cloud, with a “jump start” to consuming/producing JSON Payloads and ensure TCS can provide additional services.
 
 For more information:
-https://docs.google.com/document/d/1EBwwbiNxk8avWtJflfOiHu865UamcPHdb6vJYc5lXYM/edit?usp=sharing
+https://drive.google.com/file/d/1vsQbWuikyFC4qc2kTK6MV3V987OE5NpT/view?usp=share_link
